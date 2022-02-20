@@ -40,6 +40,15 @@ Bridge type full wave rectifier is used to rectify the ac output of secondary of
 
 
 
+
+
+
+
+
+
+
+
+
 ## CASE STUDY-2  TEMPERATURE AND LIGHT CONTROL OF AN INCUBATOR
 
 ## BLOCK DIAGRAM:
