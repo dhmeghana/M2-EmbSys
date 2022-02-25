@@ -34,3 +34,19 @@ Features
 
 ![image](https://user-images.githubusercontent.com/46954351/155764633-ae5cedb6-84c1-401c-9013-8fe16e40eb93.png)
 
+
+## 4W'S  and 1H
+
+## Who
+Users to know the level of liquid in huge containers placed at Hotels,commericial complexes,Industries.
+
+## WHAT
+Is used to detect and indicate the water level in an overhead tank or any other water container.
+
+## When
+User wants to know the  level of the liquid in the container,which cannot be done manually.
+
+## Where
+Fuel level indicator in vehicles,Liquid level indicator in the huge containers in the companies.
+
+
