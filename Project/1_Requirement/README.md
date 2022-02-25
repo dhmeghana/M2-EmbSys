@@ -31,3 +31,6 @@ Features
 
 ## SWOT ANALYSIS
 
+
+![image](https://user-images.githubusercontent.com/46954351/155764633-ae5cedb6-84c1-401c-9013-8fe16e40eb93.png)
+
