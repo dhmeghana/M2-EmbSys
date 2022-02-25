@@ -28,3 +28,6 @@ Features
 |Fully automatic, saves man power|
 |Consume very little energy, ideal for continuous operation|
 |Shows clear indication of water levels in the overhead tank|
+
+## SWOT ANALYSIS
+
