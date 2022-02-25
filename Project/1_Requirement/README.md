@@ -13,4 +13,18 @@ Most water level indicators are equipped to indicate and detect only a single le
 So, the circuit not only capable of cautioning a person that the water tank has been filled up to certain level, but also indicates that the water level has fallen below the minimum detectable level. This circuit is important in appliances such as the water cooler where there is a danger of motor-burnout when there is no water in the radiator used up also it can be used in fuel level indication.
 
 
-## Features
+
+
+
+
+
+
+Features
+|-------|
+|Easy installation|
+|Low maintenance|
+|The Automatic water level controller ensures no overflows or dry running of pump there by saves electricity and water|
+|Avoid seepage of roofs and walls due to overflowing tanks|
+|Fully automatic, saves man power|
+|Consume very little energy, ideal for continuous operation|
+|Shows clear indication of water levels in the overhead tank|
