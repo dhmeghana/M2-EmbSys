@@ -70,3 +70,11 @@ Fuel level indicator in vehicles,Liquid level indicator in the huge containers i
 |LLR_6|When it is about to fill buzzer ring is discontinuous|HLR_3|
 |LLR_7|When it is full the buzzer rings continuously|HLR_3|
 
+
+## Applications
+
+* Automatic Water level Controller can be used in Hotels, Factories, Homes Apartments, Commercial Complexes, Drainage, etc., It can be fixed for single phase motor, Three Phase motors.
+* Fuel level indicator in vehicles.
+* Liquid level indicator in the huge containers in the companies.
+* Automatic water level controller will automatically START the pump set as soon as the water level falls below the predetermined level (usually 1/2 tank) and shall SWITCH OFF the pump set as soon as tank is full.
+
