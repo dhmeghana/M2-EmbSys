@@ -48,7 +48,10 @@ User wants to know the  level of the liquid in the container,which cannot be don
 
 ## Where
 Fuel level indicator in vehicles,Liquid level indicator in the huge containers in the companies.
-
+ 
+ ## How
+ 
+ Developed using c language and simulation in SIMULIDE
 
 
 ## High level requirements
