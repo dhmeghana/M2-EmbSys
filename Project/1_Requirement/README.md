@@ -50,3 +50,17 @@ User wants to know the  level of the liquid in the container,which cannot be don
 Fuel level indicator in vehicles,Liquid level indicator in the huge containers in the companies.
 
 
+
+## High level requirements
+
+|ID|Description|
+|--|----------------------|
+|HLR_1|Should sense the water level autoimatically|
+|HLR_2|Should display the water level on 7 segmant display|
+|HLR_3|Should Ring the buzzer accordingly|
+
+## Low level requirements
+|ID|Description|
+|--|----------------------|
+
+
