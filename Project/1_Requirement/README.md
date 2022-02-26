@@ -31,8 +31,8 @@ Features
 
 ## SWOT ANALYSIS
 
+![image](https://user-images.githubusercontent.com/46954351/155833495-0b6002f8-f614-4d76-b291-3c701538b393.png)
 
-![image](https://user-images.githubusercontent.com/46954351/155767264-35416047-7ef0-450f-9831-4d3112edfba0.png)
 
 
 ## 4W'S  and 1H
