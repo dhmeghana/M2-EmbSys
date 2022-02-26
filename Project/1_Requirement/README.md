@@ -60,7 +60,13 @@ Fuel level indicator in vehicles,Liquid level indicator in the huge containers i
 |HLR_3|Should Ring the buzzer accordingly|
 
 ## Low level requirements
-|ID|Description|
-|--|----------------------|
-
+|ID|Description|Category|
+|--|------------|---------|
+|LLR_1|The sensing is done by using a set of nine probes|HLR_1|
+|LLR_2|when the container is empty it displays zero|HLR_2|
+|LLR_3|When the container is intermediate it displays highest value|HLR_2|
+|LLR_4|When the container is full it displays 1|HLR_2|
+|LLR_5|When container is empty buzzer does not rings|HLR_3|
+|LLR_6|When it is about to fill buzzer ring is discontinuous|HLR_3|
+|LLR_7|When it is full the buzzer rings continuously|HLR_3|
 
