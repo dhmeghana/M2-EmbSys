@@ -40,7 +40,7 @@ Features
 ## Who
 Users to know the level of liquid in huge containers placed at Hotels,commericial complexes,Industries.
 
-## WHAT
+## What
 Is used to detect and indicate the water level in an overhead tank or any other water container.
 
 ## When
