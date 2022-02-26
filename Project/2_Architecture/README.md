@@ -25,7 +25,11 @@
 * Probe sensor :The Water Level Indicator employs a simple mechanism to detect and indicate the water level in an overhead tank or any other water container.
 The sensing is done by using a set of nine probes which are placed at nine different levels on the tank walls with probe 9 to probe 1 placed in increasing order of height, common probe i.e. a supply carrying probe is placed at the base of the tank.
 
-* Buzzer : 
+* Buzzer :A buzzer is added which will automatically start as the water level becomes full, auto buzzer start with the help of microcontroller.When the container is full the buzzer rings continuous.When the container is empty the buzzer does not rings.When the container is about to fill the buzzer ring is discontinuous.
+
+* supply :A constant 5v power supply is given to the microcontroller and rest of the circuit from a battery.
+
+* ATmega8: ATmega8 is a low-power CMOS 8-bit microcontroller based on the AVR RISC architecture. By executing powerful instructions in a single clock cycle, the ATmega8 achieves throughputs approaching 1 MIPS per MHz, allowing the system designer to optimize power consumption ver- sus processing speed.
 
 
 
