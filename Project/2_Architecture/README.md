@@ -36,6 +36,7 @@ The sensing is done by using a set of nine probes which are placed at nine diffe
 
 ## Flowchart
 
+![image](https://user-images.githubusercontent.com/46954351/156549862-e3d9de59-5081-4849-be9d-ab5476e0187d.png)
 
 
 
