@@ -1,21 +1,15 @@
 ## Abstract
-The Water Level Indicator employs a simple mechanism to detect and indicate the water level in an overhead tank or any other water container.
-The sensing is done by using a set of nine probes which are placed at nine different levels on the tank wallswith probe 9 to probe 1 placed in increasing order of height,
-common probe that is the a supply carrying probe is placed at the base of the tank.The level 8 represents the “tank full” condition while level 0 represents the “tank empty” condition.
-
-When the water-level is below the minimum detectable level (MDL), the seven segment display is arranged to show the digit 0, indicating that the tank is empty, when the water reaches level1
-the connection between the probes gets completed and the base voltage of transistor increases.This causes the base-emitter junction of transistor to get forward biased, this switches transistor from cut-off to conduction mode thus PIN (B7) of microcontroller is pulled to ground hence, the corresponding digit displayed by the seven segment display is 1.
-
-The similar mechanism applies to the detection of all the other levels. When the tank is full, all input pins of microcontroller become low. This causes the display to show 8 and also in this case a buzzer sound is given, thereby indicating a “tank full” condition.
-
-Most water level indicators are equipped to indicate and detect only a single level. The Water Level Indicator implemented here can indicate up to nine such levels and the microcontroller displays the level number on a seven segment display.
-
-So, the circuit not only capable of cautioning a person that the water tank has been filled up to certain level, but also indicates that the water level has fallen below the minimum detectable level. This circuit is important in appliances such as the water cooler where there is a danger of motor-burnout when there is no water in the radiator used up also it can be used in fuel level indication.
 
 
 
+The water level indicator uses a simple mechanism to detect and display the water level in  overhead tanks . Detection is done  using a set of nine probes  placed on nine different levels of the tank wall. Probes 9 through 1 are arranged in ascending order of height, and the common probe  is the utility-carrying probe, which is  at the base level. 8 represents the status "tank is full" and level 0 represents the status "tank is empty".
 
+When the water level drops below the minimum detectable level, the 7-segment display shows the number 0, indicating that the tank is empty
+A similar mechanism applies to all other levels of detection. When the tank is full, all input pins on the microcontroller are low. As a result, an 8 will appear on the display, again with a buzzer to indicate that the tank is full.
 
+Most water level indicator are designed to display and detect only a single water level. The water level indicator implemented here can display up to nine such levels, and the microcontroller displays the level number on a 7-segment display.
+
+Therefore, the circuit can not only warn a person that the water tank has been filled  to a certain level, but can also indicate that the water level is below the minimum detectable level. This circuit is important for equipment such as  water coolers where there is a risk of the engine burning out if the used cooler is out of water and can also  be used to indicate fuel levels.
 
 
 
@@ -51,7 +45,7 @@ Fuel level indicator in vehicles,Liquid level indicator in the huge containers i
  
  ## How
  
- Developed using c language and simulation in SIMULIDE
+ When level of liquid detection cannot be done manually,it helps the users to do so with the help of Buzzer
 
 
 ## High level requirements
