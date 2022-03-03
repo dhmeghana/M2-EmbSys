@@ -1,6 +1,6 @@
 ## Block Diagram
 
-
+![image](https://user-images.githubusercontent.com/46954351/156548869-7ca0cf57-fdd6-44cc-b245-4a2eeff21edd.png)
 
 
 ## Components
