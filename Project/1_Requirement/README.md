@@ -77,4 +77,11 @@ An automated parking system is a area or volume required for parking cars. Autom
 * The automatic car parking system could be used for residential buildings,hotels,offices,shopping center,show rooms,universities,government buildings,airports,hospitals,and stadium,etc.
 * The scope of this project is vast in the area automatic of car parking and vehicle security.
 
+## Advantages
+*  There is no need for driver while looking for an available space.
+*  	Providing security and safety for the car from theft and damages while parking
+*  	Automatically senses the entry and exit of cars.
+*  	There is a minimal staff requirement if it is used by known parkers.
+  	
+
 
