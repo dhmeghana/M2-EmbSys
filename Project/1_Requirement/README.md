@@ -1,7 +1,7 @@
 ## Abstract
 
 
-Automatic Smart car parking project aims at providing a confusion free and easy parking. This concept helps the drivers of the cars to park their vehicles with minimum wastage of time with accurate information of the availability of the space to park vehicle.Everything in the modern world is moving automatic system, we have built a system like that which can automatically sense the entry and exit of cars through the gate and then display the number of cars in the parking lot. This automated car parking system reduce the time taken to check the space for the vehicle by displaying the available space for parking on a LCD displayer. This project is developed using micro-controller arduino uno.
+Automatic Smart car parking project aims at providing a  free and easy parking. This concept helps the drivers of the cars to park their vehicles with minimum wastage of time with accurate information of the availability of the space to park vehicle.Everything in the modern world is moving automatic system, we have built a system like that which can automatically sense the entry and exit of cars through the gate and then display the number of cars in the parking lot. This automated car parking system reduce the time taken to check the space for the vehicle by displaying the available space for parking on a LCD displayer. This project is developed using micro-controller arduino uno.
 
 
 Features
