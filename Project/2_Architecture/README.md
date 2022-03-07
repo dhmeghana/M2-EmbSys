@@ -1,8 +1,7 @@
 ## Block Diagram
 
+![image](https://user-images.githubusercontent.com/46954351/157084968-b6faa0cf-c551-4c76-913b-7e3f233dcd21.png)
 
-
-## Components
 
 
 
