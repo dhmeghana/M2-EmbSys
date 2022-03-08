@@ -37,6 +37,9 @@ This is the brain of the system here we use arduino uno every computation is don
 
 
 
+## Behavioral Diagram
+
+![image](https://user-images.githubusercontent.com/46954351/157270264-3dbfa022-1500-4907-bb2a-2543ada308b3.png)
 
 
 
