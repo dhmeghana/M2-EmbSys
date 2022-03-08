@@ -1,5 +1,2 @@
-outputs
-
-Simulation circuit
 
 
