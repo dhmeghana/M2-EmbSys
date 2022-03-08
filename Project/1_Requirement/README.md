@@ -83,10 +83,7 @@ An automated parking system is a area or volume required for parking cars. Autom
 
 
 ## Advantages
-*  There is no need for driver while looking for an available space.
-*  	Providing security and safety for the car from theft and damages while parking
-*  	Automatically senses the entry and exit of cars.
-*   Minimal staff requirement if it is used by known parkers.
-  	
-
-
+*  The hassle of searching for the empty space would be reduced.
+*  Providing security and safety for the car from theft and damages while parking
+*  Automatically senses the entry and exit of cars.
+*  The plot area required foe automatic parking system is  less as compared to typical conventional car parking system

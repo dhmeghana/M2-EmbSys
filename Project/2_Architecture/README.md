@@ -42,9 +42,10 @@ This is the brain of the system here we use arduino uno every computation is don
 
 
 ## Flowchart
+![image](https://user-images.githubusercontent.com/46954351/157218826-bd29b4a2-de42-4f4a-9c67-a4586d00151e.png)
 
 
-![image](https://user-images.githubusercontent.com/46954351/157084552-cfca1475-f75f-4e99-86f8-24c9aa62f803.png)
+
 
 
 ## UML diagram
