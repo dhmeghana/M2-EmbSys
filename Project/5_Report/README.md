@@ -3,6 +3,8 @@
 
 ## Table of contents
 
+1_Description
+
 * [Abstract](#abstract)
 
 * [SWOT ANALYSIS](#swot-analysis)
@@ -11,29 +13,28 @@
 
 * [4W 1H](#4w-1h)
 
+2_Requirements
+
+* [Highlevel Requirements](#highlevel-requirements)
+* [lowlevel Requirements](#lowlevel-requirements)
 
 
-
-
-* [State of art](state-of-Art)
-
-2.Requirements
-* High level requirements
-* Low level requirements
-
-3.Block diagrams and components
-* Block diagram
-* components description
-* Structural diagram
-* Flow chart
-* UML diagram
+3_Block diagrams and components
+* [Block diagram](#block-diagram)
+* [Component Description](#component-description)
+* [Structural Usecase diagram](#structural-usecase-diagram)
+* [Behavioral Diagram](#behavioral-diagram)
+* [Flowchart](#flowchart)
+* [UML Diagram](#uml-diagram)
 
 4.TestplanAndOutput
-* Highlevel testpaln
-* lowlevel testplan
+* [Highlevel testplan](#highlevel-testplan)
+* [lowlevel testplan](#lowlevel-testplan)
 
 
 5.Application and Advantages
+* [Applications](#applications)
+* [Advantages](#advantages)
 
 
 
@@ -66,12 +67,11 @@ is more similar to an automated storage and retrieval system for cars.
 
 
 ## Features
-|-------|
-|Servo motor shall be provided to enter and exit of the car|
-|Automatic gate opening and closing shall be provided by gate sensor along with IR signal|
-|LCD Display shall be provided to know the working of the system|
-|IR sensor shall be provided to detect the car that comes in front of the gate|
 
+Servo motor shall be provided to enter and exit of the car
+Automatic gate opening and closing shall be provided by gate sensor along with IR signal
+LCD Display shall be provided to know the working of the system
+IR sensor shall be provided to detect the car that comes in front of the gate
 
 
 ## 4W 1H
@@ -93,15 +93,12 @@ It is required for many big complexes,malls specifically in huge cities.
  
  
  
-## State of art
-
-An automated parking system is a area or volume required for parking cars. Automated Parking System provides parking for cars on multiple levels stacked vertically to maximize the number of parking spaces while minimizing land usage. so we have deployed a microcontroller which is used to sense the movement of cars and it either Free space is there or not. It is possible to free space when any car enters in the parking lot or close the gate when a car exits from the parking lot. The sensing of entry and exit of cars is done with the help of IR transmitters and receivers. This change in output is sensed by the microcontroller and accordingly it increments and decrement the count and opens the gate if there is space. The procedure for the exit of the cars is similar as the entry.
 
 
 
 
 
-## High level requirements
+## Highlevel requirements
 
 |ID|Description|
 |--|----------------------|
@@ -109,7 +106,7 @@ An automated parking system is a area or volume required for parking cars. Autom
 |HLR_2|It shall count the available space for parking.|
 
 
-## Low level requirements
+## Lowlevel requirements
 |ID|Description|Category|
 |--|------------|---------|
 |LLR_1|SERVO motor operates based on the instructions of IR signal|HLR_1|
@@ -173,7 +170,7 @@ This is the brain of the system here we use arduino uno every computation is don
 
 
 
-## High level testplan
+## Highlevel testplan
 
 
 |Test ID|Description|input|actual output|expected output|implemented or not|
