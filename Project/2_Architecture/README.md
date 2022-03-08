@@ -47,7 +47,7 @@ This is the brain of the system here we use arduino uno every computation is don
 ![image](https://user-images.githubusercontent.com/46954351/157084552-cfca1475-f75f-4e99-86f8-24c9aa62f803.png)
 
 
-## Behavioral diagram
+## UML diagram
 
 ![image](https://user-images.githubusercontent.com/46954351/157170507-1f11bd6b-4ad9-4911-b77b-e5eab3996f70.png)
 
