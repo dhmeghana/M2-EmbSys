@@ -9,9 +9,5 @@
 
 ## Lowlevel testplan
 
-|Test ID|Description|input|actual output|expected output|implemented or not|
+|Test ID|Description|implemented or not|
 |-------|-----------|------|------------|----------------|-----------------|
-|1|check for ADC read()|supply|transfer signal|transfer signal|implemented|
-|2|check for DAC read()|supply|transfer signal|transfer signal|implemented|
-|4|check for LCD Char()|C|C|C|implemented|
-|5|check for LCD String()|C|C|C|implemented|
