@@ -24,7 +24,7 @@
 4.TestplanAndOutput
 * Highlevel testpaln
 * lowlevel testplan
-* outputs
+
 
 5.Application and Advantages
 
