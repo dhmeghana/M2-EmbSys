@@ -42,6 +42,7 @@ This is the brain of the system here we use arduino uno every computation is don
 
 
 ## Flowchart
+![image](https://user-images.githubusercontent.com/46954351/157218826-bd29b4a2-de42-4f4a-9c67-a4586d00151e.png)
 
 
 
