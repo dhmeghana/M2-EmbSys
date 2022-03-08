@@ -144,8 +144,7 @@ This is the brain of the system here we use arduino uno every computation is don
 
 
 ## Structural Usecase diagram
-
-![image](https://user-images.githubusercontent.com/46954351/157170270-43a7c968-9b1c-4d47-87b2-8da1e85f5e3d.png)
+![image](https://user-images.githubusercontent.com/46954351/157271166-5e97cfa3-24f9-4b55-aac1-bd581cc143c5.png)
 
 
 ## Behavioral Diagram
