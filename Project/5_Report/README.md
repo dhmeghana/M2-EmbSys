@@ -4,7 +4,7 @@
 ## Table of contents
 
 1.About the project
-*   Abstract
+* Abstract
 * Features
 * SWOT Analysis
 * 4W'S AND 1v.state of Art
@@ -22,8 +22,11 @@
 
 4.Implementation
 * Automatic.ino
-* Automatic.hex
+* Automatic.ino.hex
 * Automatic.simu
+
+5.TestplanAndOutput
+* 
 
 
 
