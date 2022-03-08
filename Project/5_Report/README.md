@@ -175,8 +175,8 @@ This is the brain of the system here we use arduino uno every computation is don
 
 ## Lowlevel testplan
 
-|Test ID|Description|input|actual output|expected output|implemented or not|
-|-------|-----------|------|------------|----------------|-----------------|
+|Test ID|Description|implemented or not|
+|-------|-----------|------------------|
 |1|IR sensor detects the motion of the car|implemented|
 |2|SERVO motor operates based on the instructions of IR signal|implemented|
 |3|Ultra sonic sensor count the available space for parking|implemented|
