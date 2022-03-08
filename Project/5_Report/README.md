@@ -1,4 +1,39 @@
+
 # CAR PARKING SYSTEM
+
+## Table of contents
+
+1.About the project
+* Abstract
+* Features
+* SWOT Analysis
+* 4W'S AND 1H
+* state of Art
+
+2.Requirements
+* High level requirements
+* Low level requirements
+
+3.Block diagrams and components
+* Block diagram
+* components description
+* Structural diagram
+* Flow chart
+* UML diagram
+
+4.Implementation
+* Automatic.ino
+* Automatic.ino.hex
+* Automatic.simu
+
+5.TestplanAndOutput
+* Highlevel testpaln
+* lowlevel testplan
+* outputs
+
+6.Application and Advantages
+
+
 
 
 
@@ -50,6 +85,14 @@ It is required for many big complexes,malls specifically in huge cities.
  
  ## How
  Based on the sensors used user can know the space and automatic entry and exit of vehicle.
+ 
+ 
+ 
+## State of art
+
+An automated parking system is a area or volume required for parking cars. Automated Parking System provides parking for cars on multiple levels stacked vertically to maximize the number of parking spaces while minimizing land usage. so we have deployed a microcontroller which is used to sense the movement of cars and it either Free space is there or not. It is possible to free space when any car enters in the parking lot or close the gate when a car exits from the parking lot. The sensing of entry and exit of cars is done with the help of IR transmitters and receivers. This change in output is sensed by the microcontroller and accordingly it increments and decrement the count and opens the gate if there is space. The procedure for the exit of the cars is similar as the entry.
+
+
 
 
 
@@ -70,11 +113,6 @@ It is required for many big complexes,malls specifically in huge cities.
 |LLR_4|Ultra sonic sensor count the available space for parking|HLR_2|
 |LLR_5|LCD display's output of working for the instructions of sensors|HLR_2|
 
-
-
-## State of art
-
-An automated parking system is a area or volume required for parking cars. Automated Parking System provides parking for cars on multiple levels stacked vertically to maximize the number of parking spaces while minimizing land usage. so we have deployed a microcontroller which is used to sense the movement of cars and it either Free space is there or not. It is possible to free space when any car enters in the parking lot or close the gate when a car exits from the parking lot. The sensing of entry and exit of cars is done with the help of IR transmitters and receivers. This change in output is sensed by the microcontroller and accordingly it increments and decrement the count and opens the gate if there is space. The procedure for the exit of the cars is similar as the entry.
 
 
 
