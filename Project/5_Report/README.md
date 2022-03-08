@@ -30,6 +30,8 @@
 4.TestplanAndOutput
 * [Highlevel testplan](#highlevel-testplan)
 * [lowlevel testplan](#lowlevel-testplan)
+* [outputs](#outputs)
+
 
 
 5.Application and Advantages
@@ -189,6 +191,13 @@ This is the brain of the system here we use arduino uno every computation is don
 |3|Ultra sonic sensor count the available space for parking|implemented|
 |4|LCD display's output of working for the instructions of sensors|implemented|
 |5|Gate sensor to automaticaly open and close gate based on the instruction of IR signal|implemented|
+
+## outputs
+![simulation](https://user-images.githubusercontent.com/46954351/157299788-dc394b0f-9b98-4cd7-bade-ba2c54d1e858.PNG)
+![no entry and exit of car](https://user-images.githubusercontent.com/46954351/157299657-53bc9a24-734e-4cc4-9d00-f92206cd7e74.PNG)
+![no parking space](https://user-images.githubusercontent.com/46954351/157299703-2b808ef8-76ba-4b49-8250-a868424387fc.PNG)
+![one car exited](https://user-images.githubusercontent.com/46954351/157299730-8cca0e05-b061-4ed8-a4a7-841e651b1af2.PNG)
+
 
 
 
