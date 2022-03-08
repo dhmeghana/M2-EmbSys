@@ -2,11 +2,16 @@
 # CAR PARKING SYSTEM
 
 ## Table of contents
+
 1.About the project
-i. Abstract
-ii.Features
-iii.SWOT Analysis
-iv.4W'S AND 1v.state of Art
+*   Abstract
+* Features
+* SWOT Analysis
+* 4W'S AND 1v.state of Art
+
+2.Requirements
+* High level requirements
+* Low level requirements
 
 
 
