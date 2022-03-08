@@ -10,4 +10,9 @@
 ## Lowlevel testplan
 
 |Test ID|Description|implemented or not|
-|-------|-----------|------|------------|----------------|-----------------|
+|-------|-----------|------------------|
+|1|IR sensor detects the motion of the car|implemented|
+|2|SERVO motor operates based on the instructions of IR signal|implemented|
+|3|Ultra sonic sensor count the available space for parking|implemented|
+|4|LCD display's output of working for the instructions of sensors|implemented|
+|5|Gate sensor to automaticaly open and close gate based on the instruction of IR signal|implemented|
