@@ -33,8 +33,8 @@ This is the brain of the system here we use arduino uno every computation is don
 
 
 ## Structural diagram
+![image](https://user-images.githubusercontent.com/46954351/157270969-76559ea4-7931-41d3-9723-8c1a89d78a00.png)
 
-![image](https://user-images.githubusercontent.com/46954351/157170270-43a7c968-9b1c-4d47-87b2-8da1e85f5e3d.png)
 
 
 
