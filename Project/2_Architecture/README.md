@@ -32,6 +32,8 @@ Here this is actually inside the microcontroller.
 This is the brain of the system here we use arduino uno every computation is done inside this controller it converts analog to digital and maps certain values, it controls LCD display, it sends PWM signals to servo motor.
 
 
+## Structural diagram
+
 ![image](https://user-images.githubusercontent.com/46954351/157170270-43a7c968-9b1c-4d47-87b2-8da1e85f5e3d.png)
 
 
@@ -44,6 +46,10 @@ This is the brain of the system here we use arduino uno every computation is don
 
 ![image](https://user-images.githubusercontent.com/46954351/157084552-cfca1475-f75f-4e99-86f8-24c9aa62f803.png)
 
+
+## Behavioral diagram
+
+![image](https://user-images.githubusercontent.com/46954351/157170507-1f11bd6b-4ad9-4911-b77b-e5eab3996f70.png)
 
 
 
