@@ -15,7 +15,10 @@
 
 3.Block diagrams and components
 * Block diagram
-* components
+* components description
+* Structural diagram
+* Flow chart
+* UML diagram
 
 
 
