@@ -21,17 +21,12 @@
 * Flow chart
 * UML diagram
 
-4.Implementation
-* Automatic.ino
-* Automatic.ino.hex
-* Automatic.simu
-
-5.TestplanAndOutput
+4.TestplanAndOutput
 * Highlevel testpaln
 * lowlevel testplan
 * outputs
 
-6.Application and Advantages
+5.Application and Advantages
 
 
 
