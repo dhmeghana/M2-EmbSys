@@ -13,6 +13,10 @@
 * High level requirements
 * Low level requirements
 
+3.Block diagrams and components
+* Block diagram
+* components
+
 
 
 
