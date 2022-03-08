@@ -3,12 +3,19 @@
 
 ## Table of contents
 
-1.About the project
-* Abstract
-* Features
-* SWOT Analysis
-* 4W'S AND 1H
-* state of Art
+* [Abstract](#abstract)
+
+* [SWOT ANALYSIS](#swot-analysis)
+
+* [Features](#features)
+
+* [4W 1H](#4w-1h)
+
+
+
+
+
+* [State of art](state-of-Art)
 
 2.Requirements
 * High level requirements
@@ -50,12 +57,6 @@ is more similar to an automated storage and retrieval system for cars.
 
 
 
-Features
-|-------|
-|Servo motor shall be provided to enter and exit of the car|
-|Automatic gate opening and closing shall be provided by gate sensor along with IR signal|
-|LCD Display shall be provided to know the working of the system|
-|IR sensor shall be provided to detect the car that comes in front of the gate|
 
 ## SWOT ANALYSIS
 
@@ -64,7 +65,16 @@ Features
 ![image](https://user-images.githubusercontent.com/46954351/157083656-14e0f1f1-b63a-4977-b900-b38d2e25a1d0.png)
 
 
-## 4W'S  and 1H
+## Features
+|-------|
+|Servo motor shall be provided to enter and exit of the car|
+|Automatic gate opening and closing shall be provided by gate sensor along with IR signal|
+|LCD Display shall be provided to know the working of the system|
+|IR sensor shall be provided to detect the car that comes in front of the gate|
+
+
+
+## 4W 1H
 
 ## Who
  User who need to park their vehicle especically in metroploitan cities
